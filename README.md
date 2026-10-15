@@ -1,2 +1,2 @@
 # repositorio-A
-solo este es para fines academicos
+solo este proyecto es para fines académicos
